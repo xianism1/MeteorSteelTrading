@@ -1,13 +1,9 @@
 Hello ASP.NET
-<<<<<<< HEAD
 Try Editing
 Emmanuel
-=======
-Try Editting
 
 
 
 
 
 chill
->>>>>>> 131e6a7f2db6fa9a65b0febb571da0c5afde79ec
