@@ -12,7 +12,7 @@ namespace CRUDwithMVC
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int ID { get; set; }
 
-        [StringLength(10)]
+        [StringLength(20)]
         public string name { get; set; }
 
         public int? price { get; set; }
